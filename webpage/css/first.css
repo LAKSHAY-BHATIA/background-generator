@@ -1,0 +1,46 @@
+body{
+    background-color: azure;
+               color: chocolate;
+               background-image: repeating-linear-gradient(red,yellow);
+}
+#item1{
+    background-color: aqua;
+    color-adjust: 50%; 
+
+}
+#navigationbar
+{
+    background-color: blanchedalmond;
+    align-content: center;
+background-image: cross-fade();
+}
+main{
+    background-color: bisque;
+}
+img{
+width: 10%;
+height: 20%;
+float: right;
+}
+.footer1{
+    color: blue;
+    background-color: chartreuse;
+}
+#web{
+    color: lightseagreen;
+    background-color: rgb(20, 180, 220);
+    margin-left: 67%;
+    margin-right: 33%;
+}
+#para-element{
+    background-image: url("C:/Users/sunny_bh/Desktop/webpage/image/photo-1522720833375-9c27ffb02a5e.jpg");
+  background-size: cover;
+  background-image: unset;
+  border: 5px solid rgb(20, 180, 220);
+  cursor: -webkit-grab;
+  text-decoration: burlywood;
+  text-align: center;
+  text-shadow: 89ch;
+  -webkit-text-fill-color: blueviolet;
+  font-family: cursive;
+}
